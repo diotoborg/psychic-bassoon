@@ -5,8 +5,1163 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"@babel/runtime@npm:^7.22.5":
+  version: 7.24.5
+  resolution: "@babel/runtime@npm:7.24.5"
+  dependencies:
+    regenerator-runtime: "npm:^0.14.0"
+  checksum: 10c0/05730e43e8ba6550eae9fd4fb5e7d9d3cb91140379425abcb2a1ff9cebad518a280d82c4c4b0f57ada26a863106ac54a748d90c775790c0e2cd0ddd85ccdf346
+  languageName: node
+  linkType: hard
+
 "@diotoborg/psychic-bassoon@workspace:.":
   version: 0.0.0-use.local
   resolution: "@diotoborg/psychic-bassoon@workspace:."
+  dependencies:
+    "@dramaorg/esse-praesentium-eligendi": "npm:^1.1.4"
+    "@juigorg/sit-nam-neque": "npm:^1.0.4"
+    "@kollorg/dicta-itaque-nemo": "npm:^1.0.4"
+    "@swenkerorg/modi-dolorum-provident": "npm:^1.1.3"
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.2.3"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
   languageName: unknown
   linkType: soft
+
+"@dramaorg/esse-praesentium-eligendi@npm:^1.1.4":
+  version: 1.1.4
+  resolution: "@dramaorg/esse-praesentium-eligendi@npm:1.1.4"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.5"
+    "@dramaorg/shiny-waddle": "npm:^1.1.4"
+    "@dramaorg/solid-octo": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/2d0f66aaf46c0c5a4bd718c46ef694c4e540f02e39580a02ae479c78f19886839685e955768c6b5f2dc8022bf70a6e05d344044be4b4c1c16ba7226fe4fa58f7
+  languageName: node
+  linkType: hard
+
+"@dramaorg/psychic-couscous@npm:^1.1.0, @dramaorg/psychic-couscous@npm:^1.1.2, @dramaorg/psychic-couscous@npm:^1.1.5":
+  version: 1.1.9
+  resolution: "@dramaorg/psychic-couscous@npm:1.1.9"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/240ad70c48eb5134997a53507e6117464f9853ada57850df5d532fe1f50ce28a3cb7a4c92c599809c4ba1445bead4034173199a3229b976ba66db358425d357f
+  languageName: node
+  linkType: hard
+
+"@dramaorg/shiny-waddle@npm:^1.1.2, @dramaorg/shiny-waddle@npm:^1.1.4":
+  version: 1.2.7
+  resolution: "@dramaorg/shiny-waddle@npm:1.2.7"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/7d2eb9c4bfb753b8c2f45841ab5516634f8983a4a19d7d2dc41e9746b8dd61b4c2cd65b90e367b00db381ebf0917d80daf7a19d2d7f9c5395b7cc032694f2196
+  languageName: node
+  linkType: hard
+
+"@dramaorg/solid-octo@npm:^1.1.2":
+  version: 1.2.5
+  resolution: "@dramaorg/solid-octo@npm:1.2.5"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.2"
+    "@dramaorg/shiny-waddle": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/726cc27b03e3eac42ce1f381a9708e2220f280d876aa8805bbba2d1421a2f08eecfb7446bf67a5afda96d847a12684d04f6b6cc1978445bc9022579eedfb556c
+  languageName: node
+  linkType: hard
+
+"@juigorg/congenial-barnacle@npm:^1.0.1":
+  version: 1.2.5
+  resolution: "@juigorg/congenial-barnacle@npm:1.2.5"
+  checksum: 10c0/64a0f089967a3c5ce2dcf8d3047d032bd2040b0e8c852165cac8260615775014b1c23db0ad97e9a0bca1421cc4783a9f6e43145e4b81a8808544dc3aee969819
+  languageName: node
+  linkType: hard
+
+"@juigorg/congenial-barnacle@npm:^2.2.5":
+  version: 2.2.9
+  resolution: "@juigorg/congenial-barnacle@npm:2.2.9"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/53710da27cc9e28b8f72c5a072d1869dafaa4a6955a9184cc8da513316b02406d1e2fb4b62fe46724a212b62c17d86e81799c7b2f756f881ab04318be8173487
+  languageName: node
+  linkType: hard
+
+"@juigorg/didactic@npm:^1.0.1, @juigorg/didactic@npm:^1.1.7":
+  version: 1.1.11
+  resolution: "@juigorg/didactic@npm:1.1.11"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/d611ace3fd16e1bc093837486eb9cab6f96084c243ff16c35c7dbb1ce265ad3346a543d96b8575627ef5fefbc13968cf3c7fce0e5d1dcf14d0cc180f98b05298
+  languageName: node
+  linkType: hard
+
+"@juigorg/musical-happiness@npm:^2.0.8":
+  version: 2.0.12
+  resolution: "@juigorg/musical-happiness@npm:2.0.12"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/3a8beb3fb0f80ca6afd09e20abf61fbc86992b4369bbe24a141c4ad81f98083f779cc82f9d057b46a46f9862d38888869e2c3be65d6f747e2bb9b8b1f62d4bdf
+  languageName: node
+  linkType: hard
+
+"@juigorg/reimagined-fishstick@npm:^1.1.7":
+  version: 1.3.9
+  resolution: "@juigorg/reimagined-fishstick@npm:1.3.9"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^1.0.1"
+    "@juigorg/didactic": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/491a76c79828e72e0ec70c6139857121ab5295553dd2c5779e53bd227399dd22f86b8369e8bbe0c10a90390a7ba87e732bde7ab702892810c1681ca242d0c3c8
+  languageName: node
+  linkType: hard
+
+"@juigorg/sit-nam-neque@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "@juigorg/sit-nam-neque@npm:1.0.4"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^2.2.5"
+    "@juigorg/didactic": "npm:^1.1.7"
+    "@juigorg/musical-happiness": "npm:^2.0.8"
+    "@juigorg/reimagined-fishstick": "npm:^1.1.7"
+    "@juigorg/succotash": "npm:^1.1.7"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/30a45d45566cc85d7749fddfbf56b0b1c728327b0842dbee8f75df064a7568954e0d7286f03dfc1d08de7337b121d244b2e53f2eec58659f1f18c815a67bc066
+  languageName: node
+  linkType: hard
+
+"@juigorg/succotash@npm:^1.1.7":
+  version: 1.2.10
+  resolution: "@juigorg/succotash@npm:1.2.10"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/293987fffeae8fd5e4e1d8e3f7863a8342e2b5922020c3e60bd53501750ca16f2da28f4de35bd67554fe56d6549312071ec129b3aa696a50a1785f6612fbee06
+  languageName: node
+  linkType: hard
+
+"@kollorg/aliquid-dolore-necessitatibus@npm:^1.0.0, @kollorg/aliquid-dolore-necessitatibus@npm:^1.0.1":
+  version: 1.1.4
+  resolution: "@kollorg/aliquid-dolore-necessitatibus@npm:1.1.4"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5c5850505e3e7c5d48079d458032f8bd88b0ed59e2dc8a18207cd0b98903a00065e5b191305924fbed29641f758deab79772143556e80d990745a7630b7db28d
+  languageName: node
+  linkType: hard
+
+"@kollorg/architecto-eos-ex@npm:^1.0.0":
+  version: 1.1.3
+  resolution: "@kollorg/architecto-eos-ex@npm:1.1.3"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/694e4e6d760bedd2d6952964dee82e5bf58823909e9e8f1d24f26e73dd58e25da0a7d371c0604a6879e30679df7ad5be990eb1e98d5a04dfc1a5fca2317fb566
+  languageName: node
+  linkType: hard
+
+"@kollorg/at-consequatur-deserunt@npm:^1.0.0, @kollorg/at-consequatur-deserunt@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/at-consequatur-deserunt@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/824a3d68db455ca43ac58a4900d92f9faefe0b4f04faf0fb334b51df3b8ea6b37bc0baa388a82712a4755d0c137f1c690dbfdd0cf06d2891c509c6439574cc1b
+  languageName: node
+  linkType: hard
+
+"@kollorg/beatae-similique-aut@npm:^1.0.0, @kollorg/beatae-similique-aut@npm:^1.0.1":
+  version: 1.0.4
+  resolution: "@kollorg/beatae-similique-aut@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/ead959be9fd21e00da73893b8a2e8facfd5fb117c8c748f69d26d5b920d8237b43a13fa2d1685afcde14400618e0d1b24712c5dac482634d71b72aeaa4bc203e
+  languageName: node
+  linkType: hard
+
+"@kollorg/consequuntur-natus-fugit@npm:^1.0.0":
+  version: 1.0.2
+  resolution: "@kollorg/consequuntur-natus-fugit@npm:1.0.2"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/0798757ca33725df6015b49d44904aad4c62dc92845f8cb32d0844eb661579f7d2fccbe7c1a7838224c151aa4bf25debb463a4dd088e5f7ce6107d15a03935d7
+  languageName: node
+  linkType: hard
+
+"@kollorg/culpa-velit-vitae@npm:^1.0.0, @kollorg/culpa-velit-vitae@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "@kollorg/culpa-velit-vitae@npm:1.0.1"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/f9b23b05d9cc300197e415ac180b6bd58803b4d99c56ce839cc89c2d0a198b35299fbcaef07ef3c5bca39f7abc6af876044476dbc48879bcb0315ad89f83d1e3
+  languageName: node
+  linkType: hard
+
+"@kollorg/cupiditate-praesentium-doloribus@npm:^1.0.0, @kollorg/cupiditate-praesentium-doloribus@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/cupiditate-praesentium-doloribus@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/98c1d18fb02f3e159a7f3ba9b162e7ef9ea6a9aceab174304e90ee259057f4e79e9c74a93603ac03909e90b9e0aec795ca5e889fa22f16443870ed11259af6c5
+  languageName: node
+  linkType: hard
+
+"@kollorg/dicta-itaque-nemo@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "@kollorg/dicta-itaque-nemo@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.1"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.1"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.1"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/culpa-velit-vitae": "npm:^1.0.1"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.1"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.1"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.1"
+    "@kollorg/expedita-quae-quibusdam": "npm:^1.0.1"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.1"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/libero-iste-molestiae": "npm:^1.0.1"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/modi-fugit-accusantium": "npm:^1.0.1"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.1"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.1"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.1"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.1"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/sunt-qui-facilis": "npm:^1.0.1"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.1"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/04d78aadcbb688d0e0c9f14790b15a275acfa609d5664b0981e3d514553f58a3e1721d13e1d4ac8c71db9fcfe1cf3fb7b9960f5cd2d2c1ca48daa6df3e8b4218
+  languageName: node
+  linkType: hard
+
+"@kollorg/distinctio-facilis-illum@npm:^1.0.0":
+  version: 1.0.4
+  resolution: "@kollorg/distinctio-facilis-illum@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/f9743ee0f245b9e2dc5f518f1e10080de19b7404c665d712ec07c53f5cd8ce170f9addd5bbe69d7843c3455406cbe9707688eedb743b88ed705bec104e5312ce
+  languageName: node
+  linkType: hard
+
+"@kollorg/eveniet-maxime-corrupti@npm:^1.0.0, @kollorg/eveniet-maxime-corrupti@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/eveniet-maxime-corrupti@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/a9384d284c5dfef5354710a4301d0593d99d9d01e55143aadd7b01681af3c45e9e51a666f041fb1648938cc8241a50ae7fb46174ed0e34744d47d70e18802666
+  languageName: node
+  linkType: hard
+
+"@kollorg/ex-doloremque-sint@npm:^1.0.0, @kollorg/ex-doloremque-sint@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/ex-doloremque-sint@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/ddb56f7965a35bf8bc95ab6365e4708be529648059e5fb73b72cff3b817287919d31267a1fb670fad8340ff729210dbedd23fce815638998279d61dded9ee407
+  languageName: node
+  linkType: hard
+
+"@kollorg/expedita-quae-quibusdam@npm:^1.0.0, @kollorg/expedita-quae-quibusdam@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/expedita-quae-quibusdam@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/culpa-velit-vitae": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/3c7cb2f4eb7ed90726aac0a301bb387cf010fc464dc444e2ccefc5e242d94da5750d047e606ddb06d3853f94825ff0a8efaac0ae8aa3cf7430280b82410122ef
+  languageName: node
+  linkType: hard
+
+"@kollorg/ipsum-eaque-quibusdam@npm:^1.0.0, @kollorg/ipsum-eaque-quibusdam@npm:^1.0.1":
+  version: 1.0.4
+  resolution: "@kollorg/ipsum-eaque-quibusdam@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/ae11932e43d6cba61228708509b83689a529eec8c4047ce1e5eac1d82a86f89522f4b25e2e80be18edfe465de5397f90ff556815bf0a22cda2657359a14e3fe7
+  languageName: node
+  linkType: hard
+
+"@kollorg/legendary-robot@npm:^1.0.2":
+  version: 1.0.6
+  resolution: "@kollorg/legendary-robot@npm:1.0.6"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/e3b3971e921d7eafb397e6adc885925fb1aa35d0f5bb10e58f0971bb091a40b5222879b2c30d48687d7d380cd307c71bf44513131d9ca3a2ca28db1463484b5b
+  languageName: node
+  linkType: hard
+
+"@kollorg/libero-iste-molestiae@npm:^1.0.0, @kollorg/libero-iste-molestiae@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/libero-iste-molestiae@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/culpa-velit-vitae": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/expedita-quae-quibusdam": "npm:^1.0.0"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/649f157064f4ea9b93e83707480c4be5c3545227f90cb112221cfc296a3ee8619596f97d7372e3d01de707bbea3c91e8da1436664c8d89e523a9eafdcb5b3ee1
+  languageName: node
+  linkType: hard
+
+"@kollorg/minima-perferendis-ipsa@npm:^1.0.0":
+  version: 1.1.3
+  resolution: "@kollorg/minima-perferendis-ipsa@npm:1.1.3"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/ccddb79fa759994025dfaff153bb2a7cf165a5fc2ba2a6214d3e27b6b32504b5c7fbaf99bafa8977b8af81adebb7d507679ba361657568d542d67a17fa74b81a
+  languageName: node
+  linkType: hard
+
+"@kollorg/modi-fugit-accusantium@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/modi-fugit-accusantium@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/culpa-velit-vitae": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/expedita-quae-quibusdam": "npm:^1.0.0"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/libero-iste-molestiae": "npm:^1.0.0"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/sunt-qui-facilis": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/42f32e4d538285cb3fffdc463fbe3823900ed823477fcbfabee0b0bdf3bdf9ccdf1e4465e8d330f5fc5817b897df1c24df8d5013e9005711325e3c47dd69e437
+  languageName: node
+  linkType: hard
+
+"@kollorg/mollitia-quasi-aspernatur@npm:^1.0.0, @kollorg/mollitia-quasi-aspernatur@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/mollitia-quasi-aspernatur@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/4bd38c11ac4548733d6e96f3b9934708c57799a35f93a00a09d2cfceec9f6ede2c454404e9fe381ecd4ce4484609dc955748169710608d596874aa3a753f1d7a
+  languageName: node
+  linkType: hard
+
+"@kollorg/mollitia-quod-molestias@npm:^1.0.0, @kollorg/mollitia-quod-molestias@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/mollitia-quod-molestias@npm:1.0.5"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/b292c12f6ca986f77015e903e06414233a0fac144b039818a36396e9e7de73cd77cfc35020e7dac4050da190900f7f9964b351a4d4332c4d324d503add1800cb
+  languageName: node
+  linkType: hard
+
+"@kollorg/nihil-veniam-deserunt@npm:^1.0.0, @kollorg/nihil-veniam-deserunt@npm:^1.0.1":
+  version: 1.2.3
+  resolution: "@kollorg/nihil-veniam-deserunt@npm:1.2.3"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/7dd8adcfca77c63f9b33ad5f21fbbe91a33e890792bc8a4333d8333741362313dd8e3cc8b0033d17748184251b06628acceb3568c3f6e83fb07beaae06bf97a1
+  languageName: node
+  linkType: hard
+
+"@kollorg/omnis-quibusdam-officiis@npm:^1.0.0":
+  version: 1.0.4
+  resolution: "@kollorg/omnis-quibusdam-officiis@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/a2ae19b72311cc8f8543a302c5cfa09006b2bd89ef947c15b3ed59ecbb7d4ebcc3538bc34e9c65aec38aaa14c382b18030daf0ea7d1ad3b8475e7d7923bc8bb3
+  languageName: node
+  linkType: hard
+
+"@kollorg/optio-reprehenderit-earum@npm:^1.0.0, @kollorg/optio-reprehenderit-earum@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/optio-reprehenderit-earum@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/a9b84c30cea94ce51e00184abff765e9ee57b7201eb372cac14ed8c55100b9ca0dd9b3eefe888cefb60fcf4e18f70fa53bf4de0e3652d331045067ed70e68c6b
+  languageName: node
+  linkType: hard
+
+"@kollorg/ratione-unde-dolores@npm:^1.0.0":
+  version: 1.1.3
+  resolution: "@kollorg/ratione-unde-dolores@npm:1.1.3"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/3a5c3708e2ffb1678250e119ed66f4dafe6bf29e2681fbf7cad4de35b28c62d4956cac7b2f6cdf704a7799219572d6bd45db8f75347939305e6f21a738c02203
+  languageName: node
+  linkType: hard
+
+"@kollorg/sunt-qui-facilis@npm:^1.0.0, @kollorg/sunt-qui-facilis@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/sunt-qui-facilis@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/culpa-velit-vitae": "npm:^1.0.0"
+    "@kollorg/cupiditate-praesentium-doloribus": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/expedita-quae-quibusdam": "npm:^1.0.0"
+    "@kollorg/ipsum-eaque-quibusdam": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/libero-iste-molestiae": "npm:^1.0.0"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/velit-incidunt-dignissimos": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/d494abaa0130c00334fae1894510d2e38a1bf02383bd46eac4a247864fa4afa79c8bd7938d3b7f92e85f7dabd8a2ee8d61811536cbdc3d758aded142fb59577b
+  languageName: node
+  linkType: hard
+
+"@kollorg/velit-incidunt-dignissimos@npm:^1.0.0, @kollorg/velit-incidunt-dignissimos@npm:^1.0.1":
+  version: 1.0.5
+  resolution: "@kollorg/velit-incidunt-dignissimos@npm:1.0.5"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quasi-aspernatur": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    "@kollorg/ratione-unde-dolores": "npm:^1.0.0"
+    "@kollorg/voluptates-pariatur-repudiandae": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/24fa42633f68abfb2b6885f2d5b22d83c5921c479211c30fc375f1660bc15d1e094929d4b628fbbf596d6c115f0f22f65f48555b72c568b45b273110bd23fc09
+  languageName: node
+  linkType: hard
+
+"@kollorg/voluptates-pariatur-repudiandae@npm:^1.0.0, @kollorg/voluptates-pariatur-repudiandae@npm:^1.0.1":
+  version: 1.0.4
+  resolution: "@kollorg/voluptates-pariatur-repudiandae@npm:1.0.4"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/at-consequatur-deserunt": "npm:^1.0.0"
+    "@kollorg/beatae-similique-aut": "npm:^1.0.0"
+    "@kollorg/consequuntur-natus-fugit": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/ex-doloremque-sint": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.0.0"
+    "@kollorg/omnis-quibusdam-officiis": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/e844846dd30cf3e2b8e1289e8a997fa0d1844ac8dc5df0e1a31f0226d43f237d7c36eb519bb09b18aa598f8da8fd1ec99c8d05b7f62c8f1c4aec370b3ee0cc6d
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/modi-dolorum-provident@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "@swenkerorg/modi-dolorum-provident@npm:1.1.3"
+  dependencies:
+    "@swenkerorg/potential-waddle": "npm:^1.0.2"
+    "@swenkerorg/super-duper": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5a06faccf24ce74ea798da0a5b965e7b39dbaebad7463372d2301a3b4c59ee3d86ba2ca55c5c335f71215ff286392ed0b962ae2f4a405f4f5977e2d21c5dcdca
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/potential-waddle@npm:^1.0.2":
+  version: 1.0.5
+  resolution: "@swenkerorg/potential-waddle@npm:1.0.5"
+  dependencies:
+    "@swenkerorg/super-duper": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/6975c2b586315f2ed012afe7c09c369f91b74925c1099ee21fd1908cb735381603b7fd5feb3c87dd5add16ea60acbee1f0cd546f8213caa8ec7b6caf91512728
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/super-duper@npm:^1.0.1, @swenkerorg/super-duper@npm:^1.0.2":
+  version: 1.2.5
+  resolution: "@swenkerorg/super-duper@npm:1.2.5"
+  dependencies:
+    "@swenkerorg/super-duper": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/65279fb0085258fbce9bd3af0e5e9eeeb4ad3f41cdd5a6ffa381f59b2653a487653b2761adfcfe498eb2fecaad113b2fcc1bd8b1a24b24a40da5448c8ac8189c
+  languageName: node
+  linkType: hard
+
+"@zitterorg/aspernatur-pariatur-occaecati@npm:^1.2.3":
+  version: 1.2.3
+  resolution: "@zitterorg/aspernatur-pariatur-occaecati@npm:1.2.3"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1e9dea2a460021c5dec1030398f559330cde0859c8f307383479f81f78d74d926d3af15f162968d3e40f73e0c8d23887ff8623aa5fe5dbbe4352309c96ba6df0
+  languageName: node
+  linkType: hard
+
+"@zitterorg/fluffy-waddle@npm:^2.1.2, @zitterorg/fluffy-waddle@npm:^2.3.4":
+  version: 2.4.8
+  resolution: "@zitterorg/fluffy-waddle@npm:2.4.8"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/d12b45c4509f4676ec3b3cbb3a2d12965742adc38ec3e3e7306967a4d086ceff9f5e10a7d70ef13eff8fc3b0b643d3ea84b473df758d1bc605055f9d4258e7f2
+  languageName: node
+  linkType: hard
+
+"@zitterorg/glowing-barnacle@npm:^1.1.3":
+  version: 1.2.7
+  resolution: "@zitterorg/glowing-barnacle@npm:1.2.7"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.1.2"
+    "@zitterorg/probable-octo": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/6ff66142e77c692e03cb68f519832cc05c8388cb83b067264331b83160eae19e0cf2e8458ab53d3bdc8dcb25c000ad6145903ae2ce96189bca05b3f85f7a81e8
+  languageName: node
+  linkType: hard
+
+"@zitterorg/probable-octo@npm:^1.1.0, @zitterorg/probable-octo@npm:^1.1.3, @zitterorg/probable-octo@npm:^1.1.4":
+  version: 1.2.7
+  resolution: "@zitterorg/probable-octo@npm:1.2.7"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/fda19501860dcb91e53b3caf26e8d7d574a676ce197270582c3b94bf8a05beb3039985d0738b85d568dbec2f280acde21123ea3f408e8fa40fa6397d01aa452e
+  languageName: node
+  linkType: hard
+
+"@zitterorg/upgraded-fishstick@npm:^1.1.0":
+  version: 1.1.4
+  resolution: "@zitterorg/upgraded-fishstick@npm:1.1.4"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/probable-octo": "npm:^1.1.3"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/fa0bd8fb66caf2216650561bfe5a5f1d42fb25d33401aa90f1f04cf3b39ab98aaa3796f8d2e0f8bc249bdad4cf39681cd5a2079c900ba357ae1f2863a863f4da
+  languageName: node
+  linkType: hard
+
+"analsorhost-simple-bs@npm:^1.0.0, analsorhost-simple-bs@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "analsorhost-simple-bs@npm:1.0.1"
+  peerDependencies:
+    "@popperjs/core": ^2.11.6
+  checksum: 10c0/7dd593a9a1fcb55c7ecadc3b21c6618e87eb35022887a71714f790aab669ff614420f6832511f39cf4a10e7db7f5d0cd035ef807615666ca85589453d93a9ee7
+  languageName: node
+  linkType: hard
+
+"corcojs-qrcode-logo@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "corcojs-qrcode-logo@npm:1.0.0"
+  dependencies:
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-sample: "npm:^1.0.0"
+    lodash.isequal: "npm:^4.5.0"
+  peerDependencies:
+    react: ">=16.4.1"
+    react-dom: ">=16.4.1"
+  checksum: 10c0/f1c05746d082ef17de639afbe78a372729746456a948cba477bcd3b0186ac016b49f05faaac42dd799d73a199f912c12caccec629a3f233f2aa91779e90df21b
+  languageName: node
+  linkType: hard
+
+"corcojs-qrcode-sample@npm:^1.0.0":
+  version: 1.0.1
+  resolution: "corcojs-qrcode-sample@npm:1.0.1"
+  dependencies:
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+  checksum: 10c0/e91eb892844aba49f4b3a86aeb6d15fe66f658007a437a782e90ab84075df2d30ea11d0225e7caddaafebfa046186e4684694308d2cff9d1d533cc4fd353c994
+  languageName: node
+  linkType: hard
+
+"corcojs-qrcode@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "corcojs-qrcode@npm:1.0.0"
+  checksum: 10c0/dded3e56c27e1dfb89f7b88f51334a205e91721670bce6f192986da74f3fc14406ae305dca30749185d3c4e61c78ca0f4dac13667b99a42ea5b7ab39fca79570
+  languageName: node
+  linkType: hard
+
+"core-js@npm:^3.31.0":
+  version: 3.37.0
+  resolution: "core-js@npm:3.37.0"
+  checksum: 10c0/7e00331f346318ca3f595c08ce9e74ddae744715aef137486c1399163afd79792fb94c3161280863adfdc3e30f8026912d56bd3036f93cacfc689d33e185f2ee
+  languageName: node
+  linkType: hard
+
+"dable-effect@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "dable-effect@npm:1.0.2"
+  dependencies:
+    firan-logging: "npm:^1.0.0"
+  checksum: 10c0/1c81c583476bd8126f89c88af05c45152b31fa77946ed4de832e88e4e40588634ad5f7416368d0dc2d6ec9e4800f32e8e4139175a284edbf30c7387d6d122a68
+  languageName: node
+  linkType: hard
+
+"firan-logging@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "firan-logging@npm:1.0.0"
+  dependencies:
+    "@babel/runtime": "npm:^7.22.5"
+    core-js: "npm:^3.31.0"
+  checksum: 10c0/e53e0b685589f120f94805ebf9a7ca6a418cbf08ae32e76e4affb5523b3b6a553361c76bca4ed486d08cf9c6128c4d398816915135c983733c5532e3497aa664
+  languageName: node
+  linkType: hard
+
+"kleur@npm:^4.0.1":
+  version: 4.1.5
+  resolution: "kleur@npm:4.1.5"
+  checksum: 10c0/e9de6cb49657b6fa70ba2d1448fd3d691a5c4370d8f7bbf1c2f64c24d461270f2117e1b0afe8cb3114f13bbd8e51de158c2a224953960331904e636a5e4c0f2a
+  languageName: node
+  linkType: hard
+
+"lodash.isequal@npm:^4.5.0":
+  version: 4.5.0
+  resolution: "lodash.isequal@npm:4.5.0"
+  checksum: 10c0/dfdb2356db19631a4b445d5f37868a095e2402292d59539a987f134a8778c62a2810c2452d11ae9e6dcac71fc9de40a6fedcb20e2952a15b431ad8b29e50e28f
+  languageName: node
+  linkType: hard
+
+"regenerator-runtime@npm:^0.14.0":
+  version: 0.14.1
+  resolution: "regenerator-runtime@npm:0.14.1"
+  checksum: 10c0/1b16eb2c4bceb1665c89de70dcb64126a22bc8eb958feef3cd68fe11ac6d2a4899b5cd1b80b0774c7c03591dc57d16631a7f69d2daa2ec98100e2f29f7ec4cc4
+  languageName: node
+  linkType: hard
+
+"simple-assi-animation@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "simple-assi-animation@npm:1.0.1"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.0"
+  checksum: 10c0/8f7b2d094e90d257b8402d9057fbeb6b6c8c6267fb324a03fc9fdab09b54ca4e2dd21a26774a2d8317e65a015d643c32b57402b255fce3e59ca480fef7f7d1bc
+  languageName: node
+  linkType: hard
+
+"simple-prompts-web3@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "simple-prompts-web3@npm:1.0.1"
+  dependencies:
+    kleur: "npm:^4.0.1"
+    sisteransi: "npm:^1.0.5"
+  checksum: 10c0/4dd52e4c34fe805a44c6b553b0ec12a1f13ad86838953b8f8ccb26c0abb757923206bc7f90246b15cceaf6cae8d5ddedb8a2472acc428864d31905863dcfe178
+  languageName: node
+  linkType: hard
+
+"sisteransi@npm:^1.0.5":
+  version: 1.0.5
+  resolution: "sisteransi@npm:1.0.5"
+  checksum: 10c0/230ac975cca485b7f6fe2b96a711aa62a6a26ead3e6fb8ba17c5a00d61b8bed0d7adc21f5626b70d7c33c62ff4e63933017a6462942c719d1980bb0b1207ad46
+  languageName: node
+  linkType: hard
