@@ -18,11 +18,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@diotoborg/psychic-bassoon@workspace:."
   dependencies:
-    "@dramaorg/esse-praesentium-eligendi": "npm:^1.2.6"
-    "@juigorg/sit-nam-neque": "npm:^1.0.7"
-    "@kollorg/dicta-itaque-nemo": "npm:^1.0.7"
-    "@swenkerorg/modi-dolorum-provident": "npm:^2.2.4"
-    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^2.2.4"
+    "@dramaorg/esse-praesentium-eligendi": "npm:^2.2.6"
+    "@juigorg/sit-nam-neque": "npm:^1.0.8"
+    "@kollorg/dicta-itaque-nemo": "npm:^1.0.9"
+    "@swenkerorg/modi-dolorum-provident": "npm:^2.2.5"
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^4.2.4"
     analsorhost-simple-bs: "npm:^1.0.1"
     corcojs-qrcode: "npm:^1.0.0"
     corcojs-qrcode-logo: "npm:^1.0.0"
@@ -33,9 +33,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@dramaorg/esse-praesentium-eligendi@npm:^1.2.6":
-  version: 1.2.6
-  resolution: "@dramaorg/esse-praesentium-eligendi@npm:1.2.6"
+"@dramaorg/esse-praesentium-eligendi@npm:^2.2.6":
+  version: 2.2.6
+  resolution: "@dramaorg/esse-praesentium-eligendi@npm:2.2.6"
   dependencies:
     "@dramaorg/psychic-couscous": "npm:^1.1.5"
     "@dramaorg/shiny-waddle": "npm:^1.1.4"
@@ -47,7 +47,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/ee502b5cb8f05b84b060e9d0212a6fea5693dcad346e6c4b141396b2c64daf67b6a7ee698b62914259e39554a31ff4bc020425a39890fdf9df3566df9e84616a
+  checksum: 10c0/1bb6919b7ad222be4da035b6e815c0d4ae1b0fa968f6a5899946131ef56860d2e06dbe561c819a909551ae6800d16ad1fe089fe18f07d6d87e2a4570cba59094
   languageName: node
   linkType: hard
 
@@ -169,9 +169,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@juigorg/sit-nam-neque@npm:^1.0.7":
-  version: 1.0.7
-  resolution: "@juigorg/sit-nam-neque@npm:1.0.7"
+"@juigorg/sit-nam-neque@npm:^1.0.8":
+  version: 1.0.8
+  resolution: "@juigorg/sit-nam-neque@npm:1.0.8"
   dependencies:
     "@juigorg/congenial-barnacle": "npm:^2.2.5"
     "@juigorg/didactic": "npm:^1.1.7"
@@ -185,7 +185,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/695ba2863418cd2afc84626be7296765e55009870d42ff47fd0e08778e7fc5c5f8be13e5d3acac81caca3b4c389e0b2e0d2119b9dc95076b70cf3b60f5c3333f
+  checksum: 10c0/e9802cee7a314dedc9bf486bf6176523a2ad1c85ad3a2b4cf9167d62618215766e4f149efd3414b82737dfbd1aee49632d0d8e3eec9a569ca3c56558bf020a12
   languageName: node
   linkType: hard
 
@@ -385,9 +385,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kollorg/dicta-itaque-nemo@npm:^1.0.7":
-  version: 1.0.7
-  resolution: "@kollorg/dicta-itaque-nemo@npm:1.0.7"
+"@kollorg/dicta-itaque-nemo@npm:^1.0.9":
+  version: 1.0.9
+  resolution: "@kollorg/dicta-itaque-nemo@npm:1.0.9"
   dependencies:
     "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.1"
     "@kollorg/architecto-eos-ex": "npm:^1.0.0"
@@ -421,7 +421,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/9a480c4470831a00f92cc2a3ba568bc386d66f0a6d8ed5d10d46c91be4b5d35337e874b441096e75a66e12996debf5f091c91fddc0e2b1465cad329128af00c6
+  checksum: 10c0/a14466a8aec3089b195c94a9012b4810e7f34117cc10bc148e457d96de87c3956dff8c1a4871a208240da2500ebee741b4d5fe5a11c603793ac9c05788499539
   languageName: node
   linkType: hard
 
@@ -919,9 +919,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swenkerorg/modi-dolorum-provident@npm:^2.2.4":
-  version: 2.2.4
-  resolution: "@swenkerorg/modi-dolorum-provident@npm:2.2.4"
+"@swenkerorg/modi-dolorum-provident@npm:^2.2.5":
+  version: 2.2.5
+  resolution: "@swenkerorg/modi-dolorum-provident@npm:2.2.5"
   dependencies:
     "@swenkerorg/potential-waddle": "npm:^1.0.2"
     "@swenkerorg/super-duper": "npm:^1.0.2"
@@ -932,7 +932,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/1d780bf735d5cb332d0d867f345a69c7862728b25b00b9544d8fdfe4b25f30d8ca03b92e0bb2607cf190d696de1714f63558e837977ead2d285a975907fcfda2
+  checksum: 10c0/00a3b15d79dc6143ffd167cec7049dc9cab6789e08790e1ecf12f0596ceb5b0c91ef18315b5c6e461ada75b39ff8e2c4a7dfd12973a8c81f87cc6dd1ceb4a11f
   languageName: node
   linkType: hard
 
@@ -968,9 +968,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@zitterorg/aspernatur-pariatur-occaecati@npm:^2.2.4":
-  version: 2.2.4
-  resolution: "@zitterorg/aspernatur-pariatur-occaecati@npm:2.2.4"
+"@zitterorg/aspernatur-pariatur-occaecati@npm:^4.2.4":
+  version: 4.2.4
+  resolution: "@zitterorg/aspernatur-pariatur-occaecati@npm:4.2.4"
   dependencies:
     "@zitterorg/fluffy-waddle": "npm:^2.3.4"
     "@zitterorg/glowing-barnacle": "npm:^1.1.3"
@@ -983,7 +983,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/ff0878676990c377d6383b8d0a1daa61da42b6d038ccac85e283ea35227becbe47e6401f7a59dd99542dd91f59ccb175156049bc6edd07dee7b8fc033c3ac482
+  checksum: 10c0/70500841e752298c86413ae003e8eb376fec610676a6560ce00961c728a80d37acdef298e6cac479e939afd099ccd73fef929c19aa46e6a66d26b0064604ccf8
   languageName: node
   linkType: hard
 
