@@ -18,10 +18,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@diotoborg/psychic-bassoon@workspace:."
   dependencies:
-    "@dramaorg/esse-praesentium-eligendi": "npm:^2.2.11"
-    "@juigorg/sit-nam-neque": "npm:^1.0.13"
-    "@kollorg/dicta-itaque-nemo": "npm:^1.1.12"
-    "@swenkerorg/modi-dolorum-provident": "npm:^3.2.9"
+    "@dramaorg/esse-praesentium-eligendi": "npm:^2.2.12"
+    "@juigorg/sit-nam-neque": "npm:^1.0.14"
+    "@kollorg/dicta-itaque-nemo": "npm:^1.1.13"
+    "@swenkerorg/modi-dolorum-provident": "npm:^3.2.10"
     "@zitterorg/aspernatur-pariatur-occaecati": "npm:^5.2.8"
     analsorhost-simple-bs: "npm:^1.0.1"
     corcojs-qrcode: "npm:^1.0.0"
@@ -33,9 +33,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@dramaorg/esse-praesentium-eligendi@npm:^2.2.11":
-  version: 2.2.11
-  resolution: "@dramaorg/esse-praesentium-eligendi@npm:2.2.11"
+"@dramaorg/esse-praesentium-eligendi@npm:^2.2.12":
+  version: 2.2.12
+  resolution: "@dramaorg/esse-praesentium-eligendi@npm:2.2.12"
   dependencies:
     "@dramaorg/psychic-couscous": "npm:^1.1.5"
     "@dramaorg/shiny-waddle": "npm:^1.1.4"
@@ -47,7 +47,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/fc74df6eac61c27325286f433bdb45267269ef2177b01a81d188b86db7e974f94d4a84c48334ed48a6b5a1b84d8b374508382b4c6fe3a8d743c4639e84898888
+  checksum: 10c0/b18c7a6545c2867ccaa51d2846ca90bd790738fe249a70f96651ef7c293a3b62d3ae3faf2cfd1910cc569fd2b779c2e2b4f2ab82a48dec81550c2263c061718e
   languageName: node
   linkType: hard
 
@@ -169,9 +169,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@juigorg/sit-nam-neque@npm:^1.0.13":
-  version: 1.0.13
-  resolution: "@juigorg/sit-nam-neque@npm:1.0.13"
+"@juigorg/sit-nam-neque@npm:^1.0.14":
+  version: 1.0.14
+  resolution: "@juigorg/sit-nam-neque@npm:1.0.14"
   dependencies:
     "@juigorg/congenial-barnacle": "npm:^2.2.5"
     "@juigorg/didactic": "npm:^1.1.7"
@@ -185,7 +185,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/4b44f41838e51ebbf360d6856948486f05dcfaf8e5e1337330f74a0dfd521815fe379cb33d585192db6abbadb4da5ea168b4775c68b121c01be1d67790c4fbb6
+  checksum: 10c0/95828367f009abee523e96060851757b0f3a7186a251b799f063a142eb1123966f0b23e00452e78beb6d8769dff5ca6c0df88b779ee8a4ad0f6de3998bbc257f
   languageName: node
   linkType: hard
 
@@ -385,9 +385,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kollorg/dicta-itaque-nemo@npm:^1.1.12":
-  version: 1.1.12
-  resolution: "@kollorg/dicta-itaque-nemo@npm:1.1.12"
+"@kollorg/dicta-itaque-nemo@npm:^1.1.13":
+  version: 1.1.13
+  resolution: "@kollorg/dicta-itaque-nemo@npm:1.1.13"
   dependencies:
     "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.1"
     "@kollorg/architecto-eos-ex": "npm:^1.0.0"
@@ -421,7 +421,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/1a7dceda77b8bf825ddf20a9578595020e19d402aad588b18065ee6e97a9a4d77819d0837202215aeafa1ee94fa47b5764e0c61a60b73d438edca8a842a913d2
+  checksum: 10c0/f51170faf47dc975f000c5a0f2f5bdefe0274ab11cfea493630ef31394ccc4ab1248f0e51fc27526e3f25c2b9bb3e668d440ad9f676b57d6b6ae543f036491bc
   languageName: node
   linkType: hard
 
@@ -919,9 +919,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swenkerorg/modi-dolorum-provident@npm:^3.2.9":
-  version: 3.2.9
-  resolution: "@swenkerorg/modi-dolorum-provident@npm:3.2.9"
+"@swenkerorg/modi-dolorum-provident@npm:^3.2.10":
+  version: 3.2.10
+  resolution: "@swenkerorg/modi-dolorum-provident@npm:3.2.10"
   dependencies:
     "@swenkerorg/potential-waddle": "npm:^1.0.2"
     "@swenkerorg/super-duper": "npm:^1.0.2"
@@ -932,7 +932,7 @@ __metadata:
     firan-logging: "npm:^1.0.0"
     simple-assi-animation: "npm:^1.0.1"
     simple-prompts-web3: "npm:^1.0.1"
-  checksum: 10c0/6c00a29570ea7611b51c19cbd4e7ed72ab7ee4edd0a8b0c4922046ae5b6695802eeed36e486cc59c404b270f029737579c19cafbe85747eb474c3a43ea72a20d
+  checksum: 10c0/3552d774e8dd3901534105a8085b879764168ce95c8d942a743384afac03678a9911810a78c7b304edd01a39bb3a59d7c7c654b3ae2777c786af0e12f7233752
   languageName: node
   linkType: hard
 
