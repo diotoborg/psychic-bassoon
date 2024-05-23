@@ -1,6 +1,6 @@
 {
   "name": "@diotoborg/psychic-bassoon",
-  "version": "1.4.24",
+  "version": "1.4.25",
   "description": "",
   "main": "index.js",
   "author": "diotobenijj",
@@ -549,10 +549,10 @@
   },
   "packageManager": "yarn@4.2.2",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.3.16",
-    "@juigorg/sit-nam-neque": "^1.0.19",
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.17",
+    "@juigorg/sit-nam-neque": "^1.0.20",
     "@kollorg/dicta-itaque-nemo": "^1.1.19",
-    "@swenkerorg/modi-dolorum-provident": "^3.3.14",
+    "@swenkerorg/modi-dolorum-provident": "^3.3.15",
     "@zitterorg/aspernatur-pariatur-occaecati": "^6.3.12",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
