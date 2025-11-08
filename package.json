@@ -1,6 +1,6 @@
 {
   "name": "@diotoborg/psychic-bassoon",
-  "version": "21.47.495",
+  "version": "21.48.495",
   "description": "",
   "main": "index.js",
   "author": "diotobenijj",
@@ -547,7 +547,7 @@
   "bugs": {
     "url": "https://github.com/diotoborg/psychic-bassoon/issues"
   },
-  "packageManager": "yarn@4.10.3",
+  "packageManager": "yarn@4.11.0",
   "dependencies": {
     "@dramaorg/esse-praesentium-eligendi": "^2.3.18",
     "@dramaorg/quae-dolore-nostrum": "^2.1.25",
